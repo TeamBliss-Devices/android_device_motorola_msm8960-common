@@ -131,7 +131,6 @@ vendor/lib/lib-rtpsl.so
 lib/libI420colorconvert.so
 lib/libgemini.so
 lib/libOmxVenc.so
-lib/libmmparser.so
 lib/libmm-color-convertor.so
 
 #  Media firmware
